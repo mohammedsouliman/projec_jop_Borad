@@ -6,7 +6,7 @@ job:
     -punlished at 
     -vacancy 
     -salary
-   # -category
+    -category
     -experience
 
 
